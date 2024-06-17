@@ -1,0 +1,21 @@
+remove unused imports (dart fix --dry-run) then (dart fix --apply)
+splash screen (dart flutter_native_splash_screen    dart run flutter_native_splash:create
+ )
+add dependency (flutter pub add)
+
+
+flutter run --multidex
+
+
+sha1 fingerprint (keytool -list -v -alias androiddebugkey -keystore %USERPROFILE%\.android\debug.keystore) or go into gradle edit with editor
+
+
+dart pub global activate flutterfire_cli
+flutterfire configure
+
+
+not for terminal
+Ctrl + o
+
+
+flutter pub run flutter_launcher_icons:main

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1017946313744",
+    "firebase_url": "https://store-enyad-default-rtdb.firebaseio.com",
+    "project_id": "store-enyad",
+    "storage_bucket": "store-enyad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017946313744:android:e7c96bbf399b3a4b57e695",
+        "android_client_info": {
+          "package_name": "com.example.enyad_store_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017946313744-91p9n54aslo13vp4jkcd183qp4o3drl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.enyad_store_3",
+            "certificate_hash": "dbbb6346bb5e7a57ee4e2939171bc33d6eef00a9"
+          }
+        },
+        {
+          "client_id": "1017946313744-amf8cnqjtd6j2pc75lnls2k0n3r92enq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAcvk04dscG6wjrYGzgr3UDB5ethLU6_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017946313744-78sarmun4clgr3g348fdrkmmjut4h5ot.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1017946313744-e8qqll81fb278jak0oipknobc0thvbbb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.enyadStore3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
